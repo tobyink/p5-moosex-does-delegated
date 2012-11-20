@@ -4,3 +4,9 @@
 	issued  2012-11-20;
 	label   "Initial release".
 
+`MooseX-Does-Delegated 0.002 cpan:TOBYINK`
+	issued  2012-11-20;
+	changeset [
+		item "Alter test case to avoid yada-yada operator which doesn't compile in Perl < 5.12."^^Packaging;
+	].
+

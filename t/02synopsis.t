@@ -11,8 +11,8 @@ use Test::More;
 	package UserAgent;
 	use Moose;
 	with qw( HttpGet );
-	sub get { ... };
-};
+	sub get { 1; };  # Changed from SYNOPSIS to get it to compile
+};                  # in Perl before 5.12.
 
 {
 	package Spider;
