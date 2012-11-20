@@ -1,0 +1,9 @@
+# This file provides instructions for packaging.
+
+`MooseX-Does-Delegated`
+	perl_version_from m`MooseX::Does::Delegated`;
+	version_from      m`MooseX::Does::Delegated`;
+	readme_from       m`MooseX::Does::Delegated`;
+	test_requires     p`Test::More 0.61` ;
+	.
+
