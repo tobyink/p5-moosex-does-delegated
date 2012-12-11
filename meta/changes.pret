@@ -14,5 +14,6 @@
 	issued  2012-12-11;
 	changeset [
 		item "Add UNIVERSAL::DOES dependency to Makefile.PL on behalf of Perl 5.8."^^Packaging;
+		item "Document test suite."^^Documentation;
 	].
 
