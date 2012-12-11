@@ -10,3 +10,9 @@
 		item "Alter test case to avoid yada-yada operator which doesn't compile in Perl < 5.12."^^Packaging;
 	].
 
+`MooseX-Does-Delegated 0.003 cpan:TOBYINK`
+	issued  2012-12-11;
+	changeset [
+		item "Add UNIVERSAL::DOES dependency to Makefile.PL on behalf of Perl 5.8."^^Packaging;
+	].
+

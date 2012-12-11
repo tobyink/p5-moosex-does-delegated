@@ -7,7 +7,7 @@ use if $] < 5.010, 'UNIVERSAL::DOES';
 
 BEGIN {
 	$MooseX::Does::Delegated::AUTHORITY = 'cpan:TOBYINK';
-	$MooseX::Does::Delegated::VERSION   = '0.002';
+	$MooseX::Does::Delegated::VERSION   = '0.003';
 }
 
 use Moose::Role;
