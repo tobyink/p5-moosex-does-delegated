@@ -8,7 +8,7 @@
 	:homepage             <https://metacpan.org/release/MooseX-Does-Delegated>;
 	:download-page        <https://metacpan.org/release/MooseX-Does-Delegated>;
 	:bug-database         <http://rt.cpan.org/Dist/Display.html?Queue=MooseX-Does-Delegated>;
-	:repository           [ a :HgRepository; :browse <https://bitbucket.org/tobyink/p5-moosex-does-delegated> ];
+	:repository           [ a :GitRepository; :browse <https://github.com/tobyink/p5-moosex-does-delegated> ];
 	:created              2012-11-09;
 	:license              <http://dev.perl.org/licenses/>;
 	:maintainer           cpan:TOBYINK;
